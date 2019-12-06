@@ -4,6 +4,8 @@ Ray
 -Tablero
 -Reloj
 -Columpio
+-Estanteria_6cajones
+-Estanteria_canastas
 
 Julian
 
