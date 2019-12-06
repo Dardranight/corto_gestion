@@ -1,3 +1,4 @@
+Deberiamos organizar los props por carpetas segun cada escenario =D
 Ray
 -Escritorio
 -Mesa y silla
